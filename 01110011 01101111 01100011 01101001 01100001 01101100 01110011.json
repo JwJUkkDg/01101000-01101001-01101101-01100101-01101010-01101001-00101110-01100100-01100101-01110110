@@ -32,8 +32,7 @@
 	{
 		"title": "Pages",
 		"url": "/pages",
-		"svgPaths": ["M4 136 c-3 -7 -4 -38 -2 -67 l3 -54 75 0 75 0 3 49 c4 54 -5 66 -50 66 -15 0 -30 5 -33 10 -9 15 -65 12 -71 -4z m71 -15 c6 -5 24 -11 40 -13 27 -3 30 -7 33 -40 l3 -38 -70 0 -71 0 0 50 c0 48 1 50 28 50 15 0 32 -4 37 -9z"],
-		"svgColor": "#FFFFFF",
+		"pngURL": "https://cdn.discordapp.com/attachments/1099404967888031806/1145339041080950804/folder.png",
 		"target": "_self"
 	}
 ]
