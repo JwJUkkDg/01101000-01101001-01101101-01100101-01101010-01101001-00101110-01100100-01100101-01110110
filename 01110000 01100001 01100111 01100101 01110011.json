@@ -1,0 +1,22 @@
+{
+	"featured": [
+		{
+			"title": "TITEL1",
+			"url": "/EXAMPLE",
+			"img": "https://cdn.discordapp.com/attachments/1099404967888031806/1145366996909821952/ryuk_by_animefreek4lyfe-343627643.jpeg",
+			"link": true,
+			"date": "27/08/2023",
+			"authors": ["Himeji"]
+		}
+	],
+	"normal": [
+		{
+			"title": "TITEL2",
+			"url": "https://example.net",
+			"img": "https://cdn.discordapp.com/attachments/1099404967888031806/1145366996909821952/ryuk_by_animefreek4lyfe-343627643.jpeg",
+			"link": false,
+			"date": "21/08/2023",
+			"authors": ["JEFF"]
+		}
+	]
+}
