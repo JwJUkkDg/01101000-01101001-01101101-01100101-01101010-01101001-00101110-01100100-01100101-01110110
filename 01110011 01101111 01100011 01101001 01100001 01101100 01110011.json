@@ -34,6 +34,6 @@
 		"url": "/pages",
 		"svgPaths": [],
 		"svgColor": "#FF0000",
-		"target": "none"
+		"target": "_self"
 	}
 ]
